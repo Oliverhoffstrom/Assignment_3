@@ -1,6 +1,7 @@
 rm(list = ls())
 
  # en liten forandring
+ # en branch
 
 setwd("C:/Users/hoffs/OneDrive/Dokument")
 
