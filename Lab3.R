@@ -14,7 +14,6 @@ library(dplyr) # Data manipulation and transformation (filter, mutate, summarize
 library(tidyverse)
 library(haven)
 library(modelsummary)
-library(AER) #package for IV estimation with `ivreg`.
 library(lubridate)
 library(stargazer)
 library(estimatr)
