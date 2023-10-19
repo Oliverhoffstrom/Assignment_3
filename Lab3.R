@@ -1,5 +1,7 @@
 rm(list = ls())
 
+ # en liten forandring
+
 setwd("C:/Users/hoffs/OneDrive/Dokument")
 
 library(tidyverse)
