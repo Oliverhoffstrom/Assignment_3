@@ -2,6 +2,7 @@ rm(list = ls())
 
  # en liten forandring
  # en branch
+# Endring Herman
 
 setwd("C:/Users/hoffs/OneDrive/Dokument")
 jkds
