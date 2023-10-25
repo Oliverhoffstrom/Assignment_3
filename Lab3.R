@@ -6,6 +6,9 @@ rm(list = ls())
 setwd("C:/Users/hoffs/OneDrive/Dokument")
 jkds
 
+# en liten edit direkte i github
+
+
 library(tidyverse)
 library(ggplot2)
 library(lmtest)
