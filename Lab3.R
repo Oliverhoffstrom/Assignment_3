@@ -7,7 +7,7 @@ setwd("C:/Users/hoffs/OneDrive/Dokument")
 jkds
 
 # en liten edit direkte i github
-
+# enda en endring
 
 library(tidyverse)
 library(ggplot2)
